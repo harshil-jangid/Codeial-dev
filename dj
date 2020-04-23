@@ -1,0 +1,41 @@
+[33mcommit ad52bbd6f225cef314827cb1930875b8f0d09da2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Thu Apr 23 17:35:49 2020 +0530
+
+    converted code to SCSS
+
+[33mcommit b380502bc114ff4f91ee4aaeb532c883988efa9f[m[33m ([m[1;31morigin/manual-local-auth[m[33m, [m[1;32mmanual-local-auth[m[33m)[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Thu Apr 23 11:41:50 2020 +0530
+
+    added passport auth + mongostore for session cookie + sign-out feature and other links in header
+
+[33mcommit 26f7c2c397e83ff4ec85b309c9820960c9bddf49[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Wed Apr 22 22:48:14 2020 +0530
+
+    completed manual authentication and maintaining session cookie
+
+[33mcommit 55c554c9be52eaa82ae2536d34eb807deef634a2[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Wed Apr 22 22:02:09 2020 +0530
+
+    added sign in form and handling manual login auth
+
+[33mcommit 2fb0e3713a45aee63f3e8e580814bdf37a1c8bba[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Wed Apr 22 21:51:33 2020 +0530
+
+    added signup page form and manual auth.
+
+[33mcommit abee4963ce4505da9311174585c4bc6982c2b93b[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Wed Apr 22 17:09:26 2020 +0530
+
+    Added sign in and sign up pages
+
+[33mcommit f07ca1d3b40ec11579487b5f4a526e996fe71ed3[m
+Author: Harshil Jangid <harshil.jangid90@gmail.com>
+Date:   Tue Apr 21 10:14:30 2020 +0530
+
+    added mongoose for database
