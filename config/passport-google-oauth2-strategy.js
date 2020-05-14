@@ -5,8 +5,8 @@ const User=require('../models/user');
 
 //tell passport to use new google strategy
 passport.use(new googleStrategy({
-    clientID:"480427380401-ce5dfekb87rbq6h5g3ibuqj5r2se3pej.apps.googleusercontent.com",
-    clientSecret:"xXtmh27X6vx6c2-OxC7p8bpM",
+    clientID:"",
+    clientSecret:"",
     callbackURL:"http://localhost:8000/users/auth/google/callback"
     },
     function(accessToken, refreshToken, profile, done){
